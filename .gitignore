@@ -1,0 +1,4 @@
+venv/
+store-vdb/
+data/
+.env
